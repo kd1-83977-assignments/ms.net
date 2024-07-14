@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPZG8WtKJaZ29d0bma1BTPBrZjFK7HJdrfimpQ2mW3lzhwqpVyrrkujWD7hdZrSOflBHffmSDAKimtwE9L/1CA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques5\\Ques5.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques4\\Ques4.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques4\\Ques4.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

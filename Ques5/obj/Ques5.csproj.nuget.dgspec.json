@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques5\\Ques5.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques5\\Ques5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques5\\Ques5.csproj",
+        "projectName": "Ques5",
+        "projectPath": "C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques5\\Ques5.csproj",
+        "packagesPath": "C:\\Users\\Aniket_Nikam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aniket_Nikam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques4\\Ques4.csproj": {
+                "projectPath": "C:\\Users\\Aniket_Nikam\\Desktop\\new\\MS.NET_Assignments\\MS.NET_Assignments\\Ques4\\Ques4.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
